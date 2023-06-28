@@ -46,7 +46,7 @@ background: linear-gradient(#87ceeb, #e0f6ff);
    border: none;
    background-color:rgba(35, 160,35) ;
    cursor: pointer;
-   z-index: 129;
+   position: absolute;
    color: #fff;
 }
 .reset:hover{
